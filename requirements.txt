@@ -2,7 +2,7 @@ backports-abc==0.5
 certifi==2024.7.4
 chardet==3.0.4
 futures==3.2.0
-idna==2.8
+idna==3.7
 requests==2.33.0
 singledispatch==3.4.0.3
 six==1.12.0
